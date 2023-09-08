@@ -1,1 +1,3 @@
-# minikube-example
+# RBAC example
+- role / roleBinding
+- clusterRole / clusterRoleBinding
