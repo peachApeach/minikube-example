@@ -1,3 +1,3 @@
 # RBAC example
 - role / roleBinding
-- clusterRole / clusterRoleBinding
+- clusterRole / clusterRoleBindingup
